@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @abdeslam272
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I'm Abdeslam EL BENNOURI 👋
 
-<!---
-abdeslam272/abdeslam272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Data Engineer with a strong background in mathematics and cloud solutions. Currently, I'm working on data engineering projects using technologies such as Azure Synapse Analytics, Power BI, Microsoft Fabric, and Azure Databricks. 
+
+💻 **What I Do:**
+- Build and optimize data architectures
+- Automate business performance indicators
+- Create interactive Power BI reports
+- Implement cloud migrations
+
+🎯 **Hobbies:**
+This GitHub is a space where I explore various projects that align with my hobbies and interests. I enjoy experimenting with new technologies, solving complex data problems, and contributing to open-source projects.
+
+Feel free to explore my repositories and connect with me!
